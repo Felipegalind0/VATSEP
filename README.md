@@ -1,8 +1,8 @@
 # VATSEP (Variable AoA Toroidal Span-Efficient Propeller)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
 
 ## Innovating Aerodynamic Efficiency in Propeller Design
-![Build Status](https://img.shields.io/badge/Build-Passing-green)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+
 
 
 ---
