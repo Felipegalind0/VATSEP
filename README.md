@@ -2,7 +2,8 @@
 
 ## Innovating Aerodynamic Efficiency in Propeller Design
 ![Build Status](https://img.shields.io/badge/Build-Passing-green)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![License: CC BY-NC](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)
+
 
 ---
 
