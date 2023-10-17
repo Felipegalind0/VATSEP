@@ -1,8 +1,5 @@
 # VATSEP: Variable AoA Toroidal Span-Efficient Propeller
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
-
-
 ## Introduction
 VATSEP (Variable Angle of Attack Toroidal Span-Efficient Propeller) represents a groundbreaking approach to propeller design. By integrating variable angles of attack and optimizing for span efficiency within a toroidal structure, VATSEP aims to set a new standard in aerodynamic efficiency.
 
@@ -47,3 +44,5 @@ This project is licensed under [Specify License].
 
 ## Contact Information
 For more information or inquiries, please contact 
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
